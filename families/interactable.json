@@ -1,0 +1,12 @@
+{
+	"name": "interactable",
+	"plugin-id": "Sprite",
+	"sid": 835300285114667,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"npc1",
+		"block"
+	]
+}

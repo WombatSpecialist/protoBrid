@@ -1,0 +1,66 @@
+{
+	"name": "npc1",
+	"plugin-id": "Sprite",
+	"sid": 675901789999852,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "DragDrop",
+			"sid": 730629282044911
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 77,
+						"height": 182,
+						"originX": 0.45454545454545453,
+						"originY": -0.26373626373626374,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1604200,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 916740291257590,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 77,
+						"height": 182,
+						"originX": 0.5064935064935064,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4349650,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 732815754595613,
+				"name": "talk",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

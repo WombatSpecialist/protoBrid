@@ -1,0 +1,12 @@
+{
+	"name": "enemy",
+	"plugin-id": "Sprite",
+	"sid": 318905775375278,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"Sprite2",
+		"Sprite3"
+	]
+}

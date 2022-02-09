@@ -1,0 +1,90 @@
+{
+	"name": "Sprite3",
+	"plugin-id": "Sprite",
+	"sid": 697083798048602,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "TileMovement",
+			"name": "TileMovement",
+			"sid": 233164006571218
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 241,
+						"height": 231,
+						"originX": 0.47717842323651455,
+						"originY": 0.45454545454545453,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 820976,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.995850622406639,
+								0,
+								0.995850622406639,
+								0.9956709956709957,
+								0,
+								0.9956709956709957
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 149918152658779,
+				"name": "idle",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 207,
+						"height": 199,
+						"originX": 0.391304347826087,
+						"originY": 0.36683417085427134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6696056,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.9951690821256038,
+								0,
+								0.9951690821256038,
+								0.9949748743718593,
+								0,
+								0.9949748743718593
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 774221768524245,
+				"name": "moving",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
